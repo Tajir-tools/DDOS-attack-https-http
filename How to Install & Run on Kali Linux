@@ -1,0 +1,18 @@
+git clone [https://github.com/Tajir-tools/DDOS-attack-https-http.git](https://github.com/Tajir-tools/DDOS-attack-https-http.git)Clone the repository:
+
+Bash
+git clone [https://github.com/Tajir-tools/DDOS-attack-https-http.git](https://github.com/Tajir-tools/DDOS-attack-https-http.git)
+Navigate to the project directory:
+
+Bash
+cd DDOS-attack-https-http
+Run the script:
+
+Bash
+python3 "DDOS attack https.py"
+Disclaimer
+This tool is created strictly for educational purposes and authorized security testing. Do not use it against targets without explicit permission.
+
+
+---
+
